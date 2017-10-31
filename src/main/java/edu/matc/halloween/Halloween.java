@@ -12,8 +12,8 @@ public class Halloween {
 
         Thread rileyThread = new Thread(riley);
         Thread genThread = new Thread(totGen);
-        genThread.start();
         rileyThread.start();
+        genThread.start();
 
     }
 
