@@ -1,0 +1,199 @@
+2017-10-30 22:22:08,741 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:22:08,750 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:08,748 7    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 12 is created
+2017-10-30 22:22:08,750 9    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 12 rings the doorbell
+2017-10-30 22:22:08,750 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:08,750 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:11,237 2496 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:16,231 7490 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 13 is created
+2017-10-30 22:22:16,232 7491 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 13 rings the doorbell
+2017-10-30 22:22:16,232 7491 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:16,232 7491 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:16,232 7491 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:17,232 8491 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 14 is created
+2017-10-30 22:22:17,232 8491 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 14 rings the doorbell
+2017-10-30 22:22:17,232 8491 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:17,233 8492 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:17,233 8492 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:21,232 12491 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 15 is created
+2017-10-30 22:22:21,235 12494 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 15 rings the doorbell
+2017-10-30 22:22:21,236 12495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:21,236 12495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:21,236 12495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:28,233 19492 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 16 is created
+2017-10-30 22:22:28,233 19492 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 16 rings the doorbell
+2017-10-30 22:22:28,233 19492 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:28,233 19492 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:29,234 20493 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:36,234 27493 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 17 is created
+2017-10-30 22:22:36,235 27494 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 17 rings the doorbell
+2017-10-30 22:22:36,235 27494 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:36,236 27495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:37,236 28495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:22:38,235 29494 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 18 is created
+2017-10-30 22:22:38,235 29494 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 18 rings the doorbell
+2017-10-30 22:22:38,236 29495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:22:38,236 29495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:22:39,236 30495 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:23:39,656 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:23:39,668 12   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:23:39,667 11   [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 12 is created
+2017-10-30 22:23:39,669 13   [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 12 rings the doorbell
+2017-10-30 22:23:39,669 13   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:23:39,669 13   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:23:42,669 3013 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:23:47,668 8012 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 13 is created
+2017-10-30 22:23:47,669 8013 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 13 rings the doorbell
+2017-10-30 22:23:47,669 8013 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:23:47,669 8013 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:23:51,179 11523 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:23:52,178 12522 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 14 is created
+2017-10-30 22:23:52,179 12523 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 14 rings the doorbell
+2017-10-30 22:23:52,179 12523 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:23:52,179 12523 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:23:55,317 15661 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:23:59,179 19523 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 15 is created
+2017-10-30 22:23:59,179 19523 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 15 rings the doorbell
+2017-10-30 22:23:59,181 19525 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:23:59,181 19525 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:00,182 20526 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 16 is created
+2017-10-30 22:24:00,182 20526 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 16 rings the doorbell
+2017-10-30 22:24:02,181 22525 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:02,181 22525 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:02,182 22526 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 17 is created
+2017-10-30 22:24:02,187 22531 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 17 rings the doorbell
+2017-10-30 22:24:02,188 22532 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 18 is created
+2017-10-30 22:24:02,189 22533 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 18 rings the doorbell
+2017-10-30 22:24:05,182 25526 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:05,182 25526 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:06,183 26527 [Thread-9] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 19 is created
+2017-10-30 22:24:06,184 26528 [Thread-9] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 19 rings the doorbell
+2017-10-30 22:24:07,184 27528 [Thread-10] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 20 is created
+2017-10-30 22:24:07,184 27528 [Thread-10] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 20 rings the doorbell
+2017-10-30 22:24:08,183 28527 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:08,184 28528 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:11,184 31528 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:11,186 31530 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:12,184 32528 [Thread-11] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 21 is created
+2017-10-30 22:24:12,185 32529 [Thread-11] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 21 rings the doorbell
+2017-10-30 22:24:14,185 34529 [Thread-12] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 22 is created
+2017-10-30 22:24:14,185 34529 [Thread-12] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 22 rings the doorbell
+2017-10-30 22:24:14,187 34531 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:14,187 34531 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:16,185 36529 [Thread-13] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 23 is created
+2017-10-30 22:24:16,187 36531 [Thread-13] INFO  edu.matc.halloween.RileysHouse  - Child Customer Thread 23 rings the doorbell
+2017-10-30 22:24:17,187 37531 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:17,187 37531 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:24:20,188 40532 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:24:20,188 40532 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy
+2017-10-30 22:27:00,152 1    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:27:00,157 6    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:27:00,167 16   [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:27:00,167 16   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:00,167 16   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:27:03,168 3017 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:27:08,611 8460 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 is created
+2017-10-30 22:27:08,611 8460 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 rings the doorbell
+2017-10-30 22:27:08,613 8462 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:08,613 8462 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 13
+2017-10-30 22:27:09,611 9460 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 is created
+2017-10-30 22:27:09,615 9464 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 rings the doorbell
+2017-10-30 22:27:11,614 11463 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:11,614 11463 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 14
+2017-10-30 22:27:14,612 14461 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child 15 is created
+2017-10-30 22:27:14,614 14463 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:27:14,617 14466 [Thread-5] INFO  edu.matc.halloween.RileysHouse  - Child 15 rings the doorbell
+2017-10-30 22:27:14,617 14466 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:14,617 14466 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 15
+2017-10-30 22:27:17,618 17467 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:27:22,612 22461 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child 16 is created
+2017-10-30 22:27:22,617 22466 [Thread-6] INFO  edu.matc.halloween.RileysHouse  - Child 16 rings the doorbell
+2017-10-30 22:27:22,617 22466 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:22,617 22466 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 16
+2017-10-30 22:27:22,616 22465 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child 17 is created
+2017-10-30 22:27:22,620 22469 [Thread-7] INFO  edu.matc.halloween.RileysHouse  - Child 17 rings the doorbell
+2017-10-30 22:27:25,613 25462 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child 18 is created
+2017-10-30 22:27:25,616 25465 [Thread-8] INFO  edu.matc.halloween.RileysHouse  - Child 18 rings the doorbell
+2017-10-30 22:27:25,618 25467 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:25,618 25467 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 17
+2017-10-30 22:27:27,614 27463 [Thread-9] INFO  edu.matc.halloween.RileysHouse  - Child 19 is created
+2017-10-30 22:27:27,614 27463 [Thread-9] INFO  edu.matc.halloween.RileysHouse  - Child 19 rings the doorbell
+2017-10-30 22:27:28,620 28469 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:28,620 28469 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 18
+2017-10-30 22:27:31,621 31470 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:31,621 31470 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 19
+2017-10-30 22:27:32,614 32463 [Thread-10] INFO  edu.matc.halloween.RileysHouse  - Child 20 is created
+2017-10-30 22:27:32,616 32465 [Thread-10] INFO  edu.matc.halloween.RileysHouse  - Child 20 rings the doorbell
+2017-10-30 22:27:34,621 34470 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:34,622 34471 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 20
+2017-10-30 22:27:37,622 37471 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:27:47,185 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:27:47,192 7    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:27:47,192 7    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:27:47,193 8    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:27:47,193 8    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:47,193 8    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:27:49,194 2009 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 is created
+2017-10-30 22:27:49,196 2011 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 rings the doorbell
+2017-10-30 22:27:50,193 3008 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:50,194 3009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 13
+2017-10-30 22:27:51,195 4010 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 is created
+2017-10-30 22:27:51,195 4010 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 rings the doorbell
+2017-10-30 22:27:53,194 6009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:27:53,194 6009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 14
+2017-10-30 22:27:56,195 9010 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:33:12,801 0    [main] INFO  ThreadTest  - Just before starting Kid
+2017-10-30 22:37:21,916 1    [main] INFO  ThreadTest  - Just before starting Riley
+2017-10-30 22:37:21,949 34   [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:37:21,950 35   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:40:03,354 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:40:03,358 4    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:40:03,363 9    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:40:03,363 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:03,363 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:40:06,364 3010 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:40:09,359 6005 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 is created
+2017-10-30 22:40:09,359 6005 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 rings the doorbell
+2017-10-30 22:40:09,360 6006 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:09,360 6006 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 13
+2017-10-30 22:40:12,769 9415 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:40:17,771 14417 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 is created
+2017-10-30 22:40:17,775 14421 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 rings the doorbell
+2017-10-30 22:40:17,775 14421 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:17,775 14421 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 14
+2017-10-30 22:40:23,119 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:40:23,126 7    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:40:23,128 9    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:40:23,129 10   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:23,129 10   [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:40:25,131 2012 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 is created
+2017-10-30 22:40:25,132 2013 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 rings the doorbell
+2017-10-30 22:40:26,129 3010 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:26,130 3011 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 13
+2017-10-30 22:40:33,014 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:40:33,020 6    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:40:33,022 8    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:40:33,023 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:40:33,023 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:40:36,023 3009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:41:02,356 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:41:02,361 5    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:41:02,363 7    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:41:02,364 8    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:41:02,364 8    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
+2017-10-30 22:41:05,365 3009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:41:06,361 4005 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 is created
+2017-10-30 22:41:06,363 4007 [Thread-3] INFO  edu.matc.halloween.RileysHouse  - Child 13 rings the doorbell
+2017-10-30 22:41:06,363 4007 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:41:06,363 4007 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 13
+2017-10-30 22:41:09,364 7008 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:41:11,362 9006 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 is created
+2017-10-30 22:41:11,362 9006 [Thread-4] INFO  edu.matc.halloween.RileysHouse  - Child 14 rings the doorbell
+2017-10-30 22:41:11,362 9006 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:41:11,363 9007 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 14
+2017-10-30 22:41:14,365 12009 [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley watches TV
+2017-10-30 22:41:31,874 0    [Thread-0] INFO  edu.matc.halloween.Riley  - Trick-Or-Treating begins
+2017-10-30 22:41:31,879 5    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 is created
+2017-10-30 22:41:31,883 9    [Thread-2] INFO  edu.matc.halloween.RileysHouse  - Child 12 rings the doorbell
+2017-10-30 22:41:31,883 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley answers the door
+2017-10-30 22:41:31,883 9    [Thread-0] INFO  edu.matc.halloween.RileysHouse  - Riley gives candy to Child 12
